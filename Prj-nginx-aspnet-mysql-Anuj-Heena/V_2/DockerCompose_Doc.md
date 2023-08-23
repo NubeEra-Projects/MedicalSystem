@@ -65,5 +65,4 @@ After the application starts, navigate to `http://localhost:80` in your web brow
  ✔ Network nginx-aspnet-mysql_default      Removed                             0.1s
 </pre>
 
-                                                                                                       Submitted by:
-                                                                                                         Anuj Sharma
+                                                                                                   
