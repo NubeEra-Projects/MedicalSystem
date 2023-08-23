@@ -7,7 +7,7 @@ awesome-compose
 ubuntu@ip-172-31-35-174:~$ cd awesome-compose/
 ubuntu@ip-172-31-35-174:~/awesome-compose$ cd nginx-aspnet-mysql/
 ubuntu@ip-172-31-35-174:~/awesome-compose/nginx-aspnet-mysql$ docker compose up
-permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json?all=1&filters=%7B%22label%22%3A%7B%22com.docker.compose.config-hash%22%3Atrue%2C%22com.docker.compose.project%3Dnginx-aspnet-mysql%22%3Atrue%7D%7D": dial unix /var/run/docker.sock: connect: permission denied
+permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Get "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/containers/json?all=1&filters=%7B%22label%22%3A%7B%22com.docker.compose.config-hash%22%3Atrue%2C%22com.docker.compose.project%3Dnginx-aspnet-mysql%22%3Atrue%7D%7D": dial unix /var/run/docker.sock: connect: permission denied .
 [+] Running 3/31-35-174:~/awesome-compose/nginx-aspnet-mysql$ sudo su
  ✔ Container nginx-aspnet-mysql-db-1       Healthy                             0.5s
  ✔ Container nginx-aspnet-mysql-backend-1  Running                             0.0s
