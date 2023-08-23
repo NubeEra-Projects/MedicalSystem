@@ -100,6 +100,5 @@ SELECT * FROM table1;
 
 ![Screenshot (2)](https://github.com/NubeEra-Projects/MedicalSystem/assets/79692668/56e9f563-7f31-4474-a90a-3167841950d6)
 
-
-
+**Submitted by Ayush Gupta and Heeral Dataulia** <br>
 
